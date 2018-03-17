@@ -7,7 +7,8 @@ In mathematics, any of the positive integers that occurs as a coefficient in the
 
 About program 
 --------------------
-The program calculates binomial coefficients for the Nth power
+The program calculates binomial coefficients for the Nth power. 
+For comparison, the program has two implementation algorithms: recursive and non-recursive
 
 Algorithm scheme:
 --------------------
